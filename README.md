@@ -36,3 +36,4 @@ npm run mock
 
 ### categories
 - id, name, color
+# Codeit-fs12-nextjs-timeattack
